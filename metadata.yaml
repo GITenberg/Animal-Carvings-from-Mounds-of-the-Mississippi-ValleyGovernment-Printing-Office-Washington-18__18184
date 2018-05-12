@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7858
     wikipedia: http://en.wikipedia.org/wiki/Henry_Wetherbee_Henshaw
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18184#Animal-Carvings-from-Mounds-of-the-Mississippi-ValleyGovernment-Printing-Office-Washington-18_
 gutenberg_bookshelf:
 - Archaeology
 - Native America
