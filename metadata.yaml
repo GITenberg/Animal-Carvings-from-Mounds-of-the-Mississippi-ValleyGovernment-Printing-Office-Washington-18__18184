@@ -1,0 +1,39 @@
+_repo: Animal-Carvings-from-Mounds-of-the-Mississippi-ValleyGovernment-Printing-Office-Washington-18__18184
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henshaw, Henry W. (Henry Wetherbee)
+    aliases:
+    - Henshaw, H. W. (Henry Wetherbee)
+    - Henshaw, Henry Wetherbee
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '7858'
+    url: http://www.gutenberg.org/2009/agents/7858
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Wetherbee_Henshaw
+description: ''
+gutenberg_bookshelf:
+- Archaeology
+- Native America
+gutenberg_issued: '2006-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18184'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mound-builders -- Art'
+- !lcsh 'Animal sculpture -- Mississippi River Valley'
+- !lcsh 'Mississippi River Valley -- Antiquities'
+- !lcsh 'Indians of North America -- Mississippi River Valley -- Antiquities'
+- !lcsh 'Mounds -- Mississippi River Valley'
+- !lcc 'E011'
+title: "Animal Carvings from Mounds of the Mississippi Valley\r\nSecond Annual Report\
+  \ of the Bureau of Ethnology to the Secretary of the Smithsonian Institution, 1880-81,\
+  \ Government Printing Office, Washington, 1883, pages 117-166"
+url: http://www.gutenberg.org/ebooks/18184
